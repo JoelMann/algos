@@ -1,1 +1,3 @@
 *.out
+algo_env/
+*.pyc
