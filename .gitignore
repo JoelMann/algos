@@ -3,3 +3,5 @@ algo_env/
 *.pyc
 *venv
 template
+.pyre*
+.watchman*
