@@ -5,3 +5,4 @@ algo_env/
 template
 .pyre*
 .watchman*
+.vscode/launch.json
