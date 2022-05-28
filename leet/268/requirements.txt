@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+pytest
+black
+pyre-check
+flake8
+pytest-cov
