@@ -6,3 +6,5 @@ template
 .pyre*
 .watchman*
 .vscode/launch.json
+leet/fb_int/.vscode/launch.json
+leet/fb_int/.vscode/settings.json

@@ -1,5 +1,5 @@
 import pytest
-from sol import Solution
+import sol
 
 
 @pytest.mark.parametrize(
@@ -11,5 +11,5 @@ from sol import Solution
     ],
 )
 def test_sol(test_input, expected):
-    s = Solution()
+    s = sol.Solution()
     assert s.solve(test_input) == expected
